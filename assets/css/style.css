@@ -194,7 +194,7 @@ tr:not(:last-child) td {
 @media (max-width: 489px) {
     body {
         overflow-x: hidden;
-        padding: 0 0 24px 0;
+        padding: 0 0 0 0;
     }
     .container {
         width: 100%;
